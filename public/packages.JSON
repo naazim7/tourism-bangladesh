@@ -1,0 +1,59 @@
+{
+	"packages": [
+		{
+			"id": 1,
+			"name": "Sundarban",
+			"location": "Khulna Bagerhat",
+			"price": 5000,
+			"duration": 3,
+			"img": "https://media-eng.dhakatribune.com/uploads/2017/07/WEB_Bangabandhu-Safari-Park-Gazipur_Syed-Zakir-Hossain-_Tiger-census_Edited_28.07.2017.jpg",
+			"desc": "What is Sundarbans famous for? Image result for sundarbanThe Sundarbans is a cluster of low-lying islands in the Bay of Bengal, spread across India and Bangladesh, famous for its unique mangrove forests. This active delta region is among the largest in the world, measuring about 40,000 sq km."
+		},
+		{
+			"id": 2,
+			"name": "Kuakata",
+			"price": 2300,
+			"duration": 1,
+
+			"location": "Potuakhali",
+			"img": "https://thefinancialexpress.com.bd/uploads/1593967459.jpg",
+			"desc": "Why is kuakata famous?Image result for kuakata,Kuakata is a place of pilgrimage for Hindu and Buddhist communities. Innumerable devotees arrive here at the festivals of 'Rush Purnima' and 'Maghi Purnima'.One may visit a 100-year-old Buddhist temple where the statue of Goutama Buddha and two 200-year-old wells are located"
+		},
+		{
+			"id": 3,
+			"name": "CoxBazar SeaBeach",
+			"price": 5000,
+			"duration": 4,
+			"location": "Maizdee",
+			"img": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/city/medium/CVuBGQuT4wGBE9wuxLMzKH-TScxH0BBa.jpg",
+			"desc": "Why is Cox's Bazar famous? Cox's Bazar is famous for its long natural sandy sea beach. ... Cox's Bazar has the world's largest unbroken sea beach which stretches more than 120 km. The entire beach is a stretch of golden sandy sea beach which is reachable by motorbike."
+		},
+		{
+			"id": 4,
+			"name": "CoxBazar SeaBeach",
+			"price": 4500,
+			"duration": 1,
+			"location": "Coxbazar,Chittagong",
+			"img": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/D2yaUl1ThtpdHZ5SFCT1L1PsUM-nWYQo.jpg",
+			"desc": "Why is Cox's Bazar famous? Cox's Bazar is famous for its long natural sandy sea beach. ... Cox's Bazar has the world's largest unbroken sea beach which stretches more than 120 km. The entire beach is a stretch of golden sandy sea beach which is reachable by motorbike."
+		},
+		{
+			"id": 5,
+			"name": "CoxBazar SeaBeach",
+			"price": 6000,
+			"duration": 4,
+			"location": "Coxbazar,Chittagong",
+			"img": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/D2yaUl1ThtpdHZ5SFCT1L1PsUM-nWYQo.jpg",
+			"desc": "Why is Cox's Bazar famous? Cox's Bazar is famous for its long natural sandy sea beach. ... Cox's Bazar has the world's largest unbroken sea beach which stretches more than 120 km. The entire beach is a stretch of golden sandy sea beach which is reachable by motorbike."
+		},
+		{
+			"id": 6,
+			"name": "CoxBazar SeaBeach",
+			"price": 8000,
+			"duration": 7,
+			"location": "Coxbazar,Chittagong",
+			"img": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/images/medium/D2yaUl1ThtpdHZ5SFCT1L1PsUM-nWYQo.jpg",
+			"desc": "Why is Cox's Bazar famous? Cox's Bazar is famous for its long natural sandy sea beach. ... Cox's Bazar has the world's largest unbroken sea beach which stretches more than 120 km. The entire beach is a stretch of golden sandy sea beach which is reachable by motorbike."
+		}
+	]
+}

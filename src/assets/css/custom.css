@@ -1,0 +1,171 @@
+* {
+	margin: 0px !important;
+	padding: 0px;
+}
+.topNav {
+	background-color: #252468;
+	padding: 8px !important;
+}
+.topBanner {
+	background-image: url("../images/banner1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	background-attachment: fixed;
+	background-position: center;
+	min-height: 500px;
+}
+.topBannerOverlay {
+	position: absolute;
+	width: 100%;
+	min-height: 500px;
+	background-color: rgba(0, 0, 0, 0.6);
+	left: 0;
+}
+
+.PagetopBanner {
+	background-image: url("../images/pagetop.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	background-attachment: fixed;
+	background-position: center;
+	min-height: 350px;
+}
+.PagetopBannerOverlay {
+	position: absolute;
+	width: 100%;
+	min-height: 350px;
+	background-color: rgba(0, 0, 0, 0.6);
+	left: 0;
+}
+
+.titleText {
+	color: white;
+	font-size: 3rem;
+	font-weight: bold;
+	font-family: "Raleway", sans-serif;
+	margin-top: 11rem !important;
+}
+.titleTextpage {
+	color: white;
+	font-size: 3rem;
+	font-weight: bold;
+	font-family: "Raleway", sans-serif;
+	margin-top: 7rem !important;
+}
+.centerXY {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.titleSubText {
+	color: white;
+	font-size: 1rem;
+	font-weight: bold;
+	font-family: "Raleway", sans-serif;
+}
+
+/* Footer*/
+.footerBG {
+	background-color: #252468;
+	color: white;
+	font-family: "Raleway", sans-serif;
+	padding: 1.2rem;
+	margin-top: 4rem;
+}
+.footerBG a {
+	color: white;
+	text-decoration: none;
+}
+.footerTitle {
+	font-size: 1.2rem;
+	margin: 15px 0px !important;
+}
+.smallText {
+	font-size: 12px;
+	margin-top: 7px;
+}
+.footerLinks {
+	display: block;
+	font-size: 12px;
+	margin-top: 10px;
+	margin-top: 10px;
+}
+.footerLinks:hover {
+	margin-left: 15px;
+}
+
+/* Tour Packages*/
+.headline {
+	background-color: #f3ae22;
+	padding: 15px;
+	display: flex;
+	color: white;
+	font-size: 2rem;
+	font-weight: bold;
+	font-family: "Montserrat", sans-serif;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 100% !important;
+}
+
+.serviceCard {
+	box-shadow: 0 0 4px 0 rgba(0, 115, 230, 0.2);
+	width: 24rem;
+	height: 27rem;
+	margin: 10px !important;
+	font-weight: 600;
+}
+.serviceCardText {
+	color: rgba(7, 103, 247, 0.918);
+	padding: 10px;
+	font-family: "Raleway", sans-serif;
+}
+
+.serviceImg {
+	height: 300px;
+	width: 100%;
+}
+.buttonCustom {
+	background-color: #252468;
+	background-color: ;
+	color: white;
+	border: none;
+	padding: 8px 15px;
+	border-radius: 15px;
+}
+.buttonCustom a {
+	color: white;
+	text-decoration: none;
+}
+.serviceProfile {
+	width: 600px;
+	height: 450px;
+}
+.hookForm input {
+	display: inline-block;
+	padding: 10px;
+	width: 80%;
+	margin: 15px !important;
+	border-radius: 10px;
+}
+
+.roundedImg {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+.btnCustom {
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center !important;
+	flex-direction: column !important;
+	background-color: #252468;
+	color: #ffffff;
+	font-size: 1.5rem;
+	padding: 0.5rem;
+	border-radius: 15px;
+}
